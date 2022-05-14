@@ -1,6 +1,8 @@
 ### Hi there 👽
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slap&size=22&duration=4999&color=F711BC&center=true&vCenter=true&lines=Welcome+to+my+Github+profile;Student+at+CSE+%2C+SUST;DS+%7C+Algo+%7C+OOP)](https://git.io/typing-svg)
 
+![Profile views](https://gpvc.arturio.dev/AFNAN-091) 
+
 Skills: JAVA / C++ / C / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
@@ -10,11 +12,11 @@ Skills: JAVA / C++ / C / HTML / CSS
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AFNAN-091)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFNAN-091)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&count_private=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AFNAN-091)  
 
@@ -22,4 +24,4 @@ Skills: JAVA / C++ / C / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AFNAN-091)  
 
-![Profile views](https://gpvc.arturio.dev/AFNAN-091)  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=AFNAN-091)](https://github.com/ryo-ma/github-profile-trophy)
