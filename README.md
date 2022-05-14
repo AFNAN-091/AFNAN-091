@@ -14,7 +14,7 @@ Skills: JAVA / C++ / C / HTML / CSS
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFNAN-091&layout=compact)](https://github.com/AFNAN-091/github-readme-stats)
+![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical)
 
 ![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical) 
 
