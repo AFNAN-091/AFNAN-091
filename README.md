@@ -3,8 +3,17 @@
 
 ![Profile views](https://gpvc.arturio.dev/AFNAN-091) 
 
-Skills: JAVA / C++ / C / HTML / CSS
+---
 
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+ </div>
 - 🔭 I’m currently working on this page. 
 
 
@@ -15,8 +24,7 @@ Skills: JAVA / C++ / C / HTML / CSS
 
 
 ![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical)
-
-![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical) 
+ 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AFNAN-091)  
 
