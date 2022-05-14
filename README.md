@@ -22,6 +22,6 @@ Skills: JAVA / C++ / C / HTML / CSS
 
 ![GitHub metrics](https://metrics.lecoq.io/AFNAN-091)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AFNAN-091)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFNAN-091&layout=compact&theme=vision-friendly-dark)](https://github.com/AFNAN-091/github-readme-stats)
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=AFNAN-091)](https://github.com/ryo-ma/github-profile-trophy)
