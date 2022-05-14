@@ -4,7 +4,6 @@
 ![Profile views](https://gpvc.arturio.dev/AFNAN-091) 
 
 ---
-
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,19 +26,18 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   
  </div>
+ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFNAN-091&layout=compact&theme=vision-friendly-dark)](https://github.com/AFNAN-091/github-readme-stats)
 
 ![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical)
  
+![GitHub metrics](https://metrics.lecoq.io/AFNAN-091)  
+
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AFNAN-091)  
-
-
-![GitHub metrics](https://metrics.lecoq.io/AFNAN-091)  
 
 
  [![trophy](https://github-profile-trophy.vercel.app/?username=AFNAN-091)](https://github.com/ryo-ma/github-profile-trophy)
