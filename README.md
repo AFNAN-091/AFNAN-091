@@ -4,14 +4,13 @@
 ![Profile views](https://gpvc.arturio.dev/AFNAN-091) 
 
 ---
-<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/https://www.facebook.com/saied.afnan.3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="75bohemian" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/Afnan_91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="_75_" height="30" width="40" /></a>
 </p>
 
-
+<br>
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -29,10 +28,15 @@
   
  </div>
  
+ <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AFNAN-091&layout=compact&theme=vision-friendly-dark)](https://github.com/AFNAN-091/github-readme-stats)
 
+<br>
+
 ![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical)
+ 
+ <br>
  
 ![GitHub metrics](https://metrics.lecoq.io/AFNAN-091)  
 
