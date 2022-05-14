@@ -11,8 +11,7 @@
 </p>
 
 <br>
-### :hammer_and_wrench: Languages and Tools :
-
+### :hammer_and_wrench: Languages and Tools : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -35,9 +34,8 @@
 <br>
 
 ![AFnaN's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFNAN-091&show_icons=true&theme=radical)
- 
+
  <br>
- 
 ![GitHub metrics](https://metrics.lecoq.io/AFNAN-091)  
 
 
