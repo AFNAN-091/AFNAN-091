@@ -1,7 +1,6 @@
 ### Hi there 👽
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Slap&size=22&duration=4999&color=F711BC&center=true&vCenter=true&lines=Welcome+to+my+Github+profile;Student+at+CSE+%2C+SUST;DS+%7C+Algo+%7C+OOP)](https://git.io/typing-svg)
 
-<img align="right" width=350px height=315px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ---
 <h3 align="left">Connect with me:</h3>
